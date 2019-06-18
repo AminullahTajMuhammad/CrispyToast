@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CrispyToast state colors  -->
+    <color name="colorRed">#ffcc0000</color>
+    <color name="colorGreen">#2CAF1E</color>
+    <color name="colorYellow">#CEA13E</color>
+    <color name="colorOrange">#E45910</color>
+    <color name="colorBlue">#134A8D</color>
+    <color name="colorDarkGray">#333333</color>
+</resources>
